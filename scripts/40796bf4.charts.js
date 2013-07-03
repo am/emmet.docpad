@@ -1,0 +1,1 @@
+define("charts",["modules/app"],function(e){});
